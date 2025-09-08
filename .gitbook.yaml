@@ -1,0 +1,6 @@
+# .gitbook.yaml (at repo root)
+root: ./_GitBook/
+
+structure:
+    readme: README.md        # becomes the homepage
+    summary: SUMMARY.md      # drives the sidebar/ToC
