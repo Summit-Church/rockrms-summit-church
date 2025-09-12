@@ -11,7 +11,7 @@
 ### Solution:
 
 1. I created a new **Page Parameter Filter** Block [BlockId: 13833].
-   1. You can search by WorkflowType Name, Category, or Id
+   - You can search by WorkflowType Name, Category, or Id
 2. I deleted the old search Block [BlockId: 8375].
    - I also deleted the corresponding Page [PageId: 3652].
 
