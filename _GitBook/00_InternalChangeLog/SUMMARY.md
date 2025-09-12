@@ -4,5 +4,6 @@
 
 ## New Blocks <a href="#blocks" id="blocks"></a>
 
+* [Shortcut to PageEditor](blocks/shortcut-to-pageeditor.md)
 * [Page Search](blocks/page-search.md)
 * [WorkflowType Search](blocks/workflowtype-search.md)
