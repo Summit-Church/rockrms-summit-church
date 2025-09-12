@@ -10,8 +10,9 @@
 
 ### Solution:
 
-1. I created a new \<u>Page Parameter Filter\</u> Block.
+1. I created a new \<u>Page Parameter Filter\</u> Block [BlockId: 13833].
    1. You can search by WorkflowType Name, Category, or Id
-2. I deleted the old search Block.
+2. I deleted the old search Block [BlockId: 8375].
+   - I also deleted the corresponding Page [PageId: 3652].
 
 <figure><img src="../.gitbook/assets/recording.gif" alt=""><figcaption></figcaption></figure>
