@@ -4,4 +4,5 @@
 
 ## New Blocks <a href="#blocks" id="blocks"></a>
 
+* [Page Search](blocks/page-search.md)
 * [WorkflowType Search](blocks/workflowtype-search.md)
